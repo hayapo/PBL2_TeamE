@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include <ZumoShield.h>
-
+//Git練習
 #define REFLECTANCE_THRESHOLD  400
 #define ROTATE_DELAY 810
 #define INTERSECTION_OSTIM 250
